@@ -57,4 +57,4 @@ Clone this repository
 Install dependencies: pip install pandas numpy matplotlib openpyxl
 Open Covid_casestudy.ipynb in Jupyter Notebook and run all cells
 
-This was my first end-to-end data analysis case study, completed as part of my Data Analyst portfolio.
+*Built as part of my Data Analyst portfolio to practice end-to-end data cleaning, reshaping, and analysis with Pandas.*
